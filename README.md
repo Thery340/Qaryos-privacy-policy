@@ -55,6 +55,30 @@ L'Application "Qaryos" intègre des services Google susceptibles d'exiger le con
 
 Pour plus d’informations sur la politique de confidentialité de Google, veuillez consulter : [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
+## Suppression de compte et des données
+
+Les utilisateurs de l’application **Qaryos** peuvent demander à tout moment la suppression de leur compte ainsi que des données associées.
+
+### Procédure de suppression
+Pour demander la suppression de votre compte :
+- Envoyez un email à **Qaryos.contact@gmail.com**
+- Indiquez l’adresse email utilisée lors de l’inscription
+- Précisez le nom de l’application concernée (Qaryos)
+
+### Données supprimées
+La suppression du compte entraîne la suppression :
+- des informations d’authentification (email, identifiant utilisateur)
+- des données liées aux rondes de sécurité
+- des historiques de scans QR codes
+- des rapports et journaux associés à l’utilisateur
+
+### Délais de traitement
+La suppression est effectuée dans un délai maximum de **30 jours** à compter de la réception de la demande.
+
+### Données conservées
+Certaines données peuvent être conservées temporairement si la loi l’exige (obligations légales ou de sécurité), puis supprimées ou anonymisées.
+
+
 ### Modifications de la Politique de Confidentialité
 Nous nous réservons le droit de mettre à jour cette politique de confidentialité à tout moment. Les modifications prendront effet dès leur publication sur cette page ou dans l’Application. Nous vous encourageons à consulter régulièrement cette page pour être informé des changements éventuels.
 
